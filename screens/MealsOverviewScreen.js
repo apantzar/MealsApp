@@ -15,7 +15,7 @@ function MealsOverViewScreen({ route }) {
         imageUrl={itemData.item.imageUrl}
         duration={itemData.item.duration}
         complexity={itemData.item.complexity}
-        affortability={itemData.item.affortability}
+        affordability={itemData.item.affordability}
       />
     );
   }
